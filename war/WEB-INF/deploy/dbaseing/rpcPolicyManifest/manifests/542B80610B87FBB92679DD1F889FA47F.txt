@@ -1,0 +1,2 @@
+serviceClass: com.appspot.dbaseing.client.GreetingService
+path: 1C72A6AA21C18C3B1164A24D291E4153.gwt.rpc
