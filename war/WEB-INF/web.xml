@@ -8,17 +8,29 @@
   <!-- Servlets -->
   <servlet>
     <servlet-name>greetServlet</servlet-name>
+<<<<<<< HEAD
     <servlet-class>com.appspot.dbasing.server.GreetingServiceImpl</servlet-class>
+=======
+    <servlet-class>com.appspot.dbaseing.server.GreetingServiceImpl</servlet-class>
+>>>>>>> 81e3d238d529e62186e227604cce30a8415d42bf
   </servlet>
   
   <servlet-mapping>
     <servlet-name>greetServlet</servlet-name>
+<<<<<<< HEAD
     <url-pattern>/dbasing/greet</url-pattern>
+=======
+    <url-pattern>/dbaseing/greet</url-pattern>
+>>>>>>> 81e3d238d529e62186e227604cce30a8415d42bf
   </servlet-mapping>
   
   <!-- Default page to serve -->
   <welcome-file-list>
+<<<<<<< HEAD
     <welcome-file>Dbasing.html</welcome-file>
+=======
+    <welcome-file>Dbaseing.html</welcome-file>
+>>>>>>> 81e3d238d529e62186e227604cce30a8415d42bf
   </welcome-file-list>
 
 </web-app>

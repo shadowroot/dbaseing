@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
+<<<<<<< HEAD
   <application></application>
+=======
+  <application>dbaseing</application>
+>>>>>>> 81e3d238d529e62186e227604cce30a8415d42bf
   <version>1</version>
 
   <!--
